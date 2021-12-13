@@ -1,5 +1,0 @@
-aaa aaaaa aaa 1 1 1999 aaaaaa EXTERIOR-B 1 22 
-aaa aaaaa bbbbb 1 1 1999 aaaaaa EXTERIOR-B 1 265 
-qsdds foifqjs 123 1 1 1999 qsf INTERIOR-A 1 qsff 
-neazdk qdkjflkq 123 1 1 1999 qffq INTERIOR-B 3 200 
-fdfsfd qsfqsd 454 1 1 1999 fqdqsd INTERIOR-B 3 200 
